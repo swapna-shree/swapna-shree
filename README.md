@@ -1,10 +1,10 @@
 # Hey there 👋
-<br>I’m Swapna — an engineering student who’s figuring it out one bug, one late-night commit, and one "what if?" at a time.<br><br>You won’t see much here yet — I’m still building, breaking, and learning.But I’ve got ideas, I’m making things, and I’ll share when they’re ready.<br><br>If you're into full-stack dev, AI and ML, or just geeking out over cool side projects.
+<br>I’m Swapna — an engineering student who’s figuring it out one bug, one late-night commit, and one "what if?" at a time.<br><br>You won’t see much here yet — I’m still building, breaking, and learning.But I’ve got ideas, I’m making things, and I’ll share when they’re ready.<br>
   
 - 🔧 I’m currently working on self-initiated builds
 - 🛠️ Learning Cloud SA, relational DBs with SQL, and backend engineering — focusing on scalability, structure, and system design.
 - 🚀 I’m looking to collaborate on Full Stack Projects 
-Stick around. Or better, let’s connect and have a chat 👇
+<br>If you're into full-stack dev, AI and ML, or just geeking out over cool side projects.Stick around. Or better, let’s connect and have a chat 👇
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ll__swapna__ll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnashree-sahoo-678b75278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapna01sre@gmail.com) 
